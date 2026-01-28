@@ -6,12 +6,8 @@
 <img src="https://img.shields.io/pub/v/flutter_adcontent?logo=dart"/>
 <img src="https://img.shields.io/badge/OS-iOS%20%7C%20Android-blue?logo=preact"/>
 </a>
-<a href="https://github.com/FlutterAds/flutter_adcontent">
-<img src="https://github.com/FlutterAds/flutter_adcontent/actions/workflows/flutter.yml/badge.svg">
-<img src=https://img.shields.io/github/stars/FlutterAds/flutter_adcontent?color=brightgreen>
-</a>
 <a href="https://flutterads.top/">
-<img src="https://img.shields.io/badge/Pro-v1.4.0-success?logo=flutter&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Pro-v1.8.3-success?logo=flutter&logoColor=FFD700"/>
 <a href="https://flutterads.top/">
 <img src="https://img.shields.io/badge/Site-FlutterAds-success?logo=webtrees&logoColor=FFD700"/>
 </a>

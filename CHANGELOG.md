@@ -1,3 +1,7 @@
+## v1.1.1
+* 🍎 升级核心库到 `v1.3.1`
+* 🚀 推荐使用【[Gromore Pro](https://flutterads.top/)】 让您的广告收益翻倍
+
 ## 1.1.0
 * 🚀 [仅提供 Pro 版本](https://flutterads.top/)
 * 🎨 【独家支持】支持小视频组件同时嵌入页面
